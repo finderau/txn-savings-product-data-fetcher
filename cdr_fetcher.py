@@ -112,6 +112,12 @@ BANKS = {
     "RACQ Bank": {
         "base_url": "https://cdrbank.racq.com.au",
     },
+    "AMP Bank": {
+        "base_url": "https://api.cdr-api.amp.com.au",
+    },
+    "AMP Bank GO": {
+        "base_url": "https://pub.cdr-sme.amp.com.au/api",
+    },
 }
 
 PRODUCT_CATEGORY = "TRANS_AND_SAVINGS_ACCOUNTS"
